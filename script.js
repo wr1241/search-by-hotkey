@@ -9,6 +9,8 @@
 // @match        https://v2ex.com/*
 // @match        https://juejin.im/*
 // @grant        none
+// @updateURL    https://github.com/wr1241/search-by-hotkey/blob/master/script.js
+// @downloadURL  https://github.com/wr1241/search-by-hotkey/blob/master/script.js
 // ==/UserScript==
 
 (function() {
